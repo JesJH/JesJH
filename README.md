@@ -1,6 +1,6 @@
 
 
-<h1>Jes Hwang - Data Analyst Portfolio</h1>
+<h1>Jes Hwang - Data Analyst </h1>
 
 <h2>About</h2>
 Hi, I am Jes! 
